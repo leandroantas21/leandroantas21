@@ -38,21 +38,20 @@ Tenho 33 anos, moro no Rio de janeiro e estou buscando desafios para conseguir e
  <p align="left">☕🎮 Adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
 </div>
 
-<!--📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/jeniblo_dev) ou pelo [Twitter](https://twitter.com/jeniblo_dev) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-
 </br>
+<!--
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/jeniblo_dev) ou pelo [Twitter](https://twitter.com/jeniblo_dev) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 -->
+</br>
 
-<a href="https://www.linkedin.com/in/leandroantas/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/leandroantas21" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 
 ##
 <p align="center">
 <a href="https://github.com/leandroantas21">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leandroantas21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leandroantas21&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leandroantas21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leandroantas21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
- </br>
-
 </p>
 
 

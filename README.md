@@ -47,12 +47,10 @@ Tenho 33 anos, moro no Rio de janeiro e estou buscando desafios para conseguir e
 <a href="https://www.linkedin.com/in/leandroantas21" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 
 ##
-<p align="center">
-<a href="https://github.com/leandroantas21">
+<div>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leandroantas21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leandroantas21&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+</div>
 
 
 <!--

@@ -1,7 +1,6 @@
 <div dsplay="inline-block">
  
- <!--<h1 align="left">Leandro de Oliveira Antas</h1>-->
- <img width="100%" src="\banner.png" title = "Header"/>
+ <img width="100%" src="\banner EN.png" title = "Header"/>
    <a href="https://www.linkedin.com/in/leandroantas/">
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align:top;">
   </a>

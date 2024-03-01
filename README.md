@@ -6,13 +6,15 @@
   </a>
 </div>
 
+<!--
+Animação da digitando nome
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Leandro+de+Oliveira+Antas)](https://git.io/typing-svg)-->
 </br>
 
-## Hello, Devs!!
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Hello%2C+there.)](https://git.io/typing-svg)
 Tenho 33 anos, moro no Rio de janeiro e estou buscando desafios para conseguir evoluir cada vez mais nesse mundo vasto que é a programação voltado para o cenário de Qualidade de software.
 
-### 🖥️ Tecnologias e Ferramentas que tenho experiência: 
+### 🖥️ Technologies and Tools: 
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" title = "VSCODE" /></div>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title = "GIT"/></div>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title = "GITHUB"/></div>
@@ -21,7 +23,7 @@ Tenho 33 anos, moro no Rio de janeiro e estou buscando desafios para conseguir e
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title = "JIRA"/></div>
 
 
-### :book: Possuo conhecimento:
+### :book: Knowledge:
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title = "PYTHON" /></div>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title = "SELENIUM"/></div>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" title = "CYPRESS" /></div>
